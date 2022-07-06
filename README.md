@@ -12,7 +12,7 @@ Prototype of Typing Game
 We need to build the react app and add an `env` variable for the database URI.
 
 ```
-$ git clone https://github.com/SWARNABHA1101/Word-Game.git/server.js
+$ git clone https://github.com/SWARNABHA1101/Word-Game/blob/main/server.js
 $ cd build && npm i && npm run build && cd ..
 $ npm i
 $ DB=<MongoDB databaseURI> npm start
